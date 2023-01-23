@@ -15,3 +15,5 @@ This project is build to learn about the intergration of these three technologie
 ## Database
 * login to with default user PostgreSQL: psql -U postgres
 * create database in postgres=# command line: CREATE DATABASE test;
+* python manage.py makemigrations
+* python manage.py migrate
